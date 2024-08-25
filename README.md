@@ -10,16 +10,17 @@ This project is a Python script that demonstrates how to create and evaluate a s
 - The following Python libraries installed:
   - `pandas`
   - `scikit-learn`
-
 You can install these libraries using pip:
+
     ```bash
     pip install pandas scikit-learn
     ```
 ### Running the Script
-1.**Save the script as linear_regression.py or any name you prefer.**
-2.**Open a terminal or command prompt.**
-3.**Navigate to the directory where the script is saved.**
-4.**Run the script by executing the following command:**
+
+1. **Save the script as linear_regression.py or any name you prefer.**
+2. **Open a terminal or command prompt.**
+3. **Navigate to the directory where the script is saved.**
+4. **Run the script by executing the following command:**
     ```bash
     python linear_regression.py
     ```
