@@ -24,33 +24,33 @@ You can install these libraries using pip:
     ```bash
     python linear_regression.py
     ```
-### Script Details
+## Script Details
 
 The script performs the following steps:
-## Data Preparation
+### Data Preparation
 
-1. ** A sample dataset is created using years of experience and corresponding salaries. This can be replaced with your actual dataset.**
+- A sample dataset is created using years of experience and corresponding salaries. This can be replaced with your actual dataset.
 
-## Feature Selection
+### Feature Selection
 
-1.**The YearsExperience column is selected as the feature (X).**
-2.** The Salary column is selected as the target variable (y).**
+- The YearsExperience column is selected as the feature (X).
+- The Salary column is selected as the target variable (y).
 
-## Train-Test Split
+### Train-Test Split
 
-1.**The dataset is split into training and testing sets using an 80-20 split.**
+- The dataset is split into training and testing sets using an 80-20 split.
 
-## Model Training
+### Model Training
 
-1.**A linear regression model is created and trained on the training set.**
+- A linear regression model is created and trained on the training set.
 
-## Prediction
+### Prediction
 
-1.**The model predicts salaries for the test set based on years of experience.**
+- The model predicts salaries for the test set based on years of experience.
 
-## Model Evaluation
+### Model Evaluation
 
-1.**The Mean Squared Error (MSE) is calculated to evaluate the model's performance on the test set.**
+- The Mean Squared Error (MSE) is calculated to evaluate the model's performance on the test set.
 
 ### Example
 ```bash
